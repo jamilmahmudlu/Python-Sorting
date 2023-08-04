@@ -47,3 +47,8 @@ step 7 -> deyishmir
 '''
 lorem lorem
 '''
+
+a = 5
+b = 6
+c = 7
+print(a, b, c)
